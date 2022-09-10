@@ -1,0 +1,20 @@
+{
+  "name": "twitchScraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaiahL88/chatScraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaiahL88/chatScraper/issues"
+  },
+  "homepage": "https://github.com/isaiahL88/chatScraper#readme"
+}
